@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/wuyuehan2024/simple_note_apps#readme",
   "dependencies": {
-    "recommendation_systems": "1.0.2"
+    "user_authentication_systems": "1.0.3"
   }
 }
