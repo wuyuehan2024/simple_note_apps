@@ -1,6 +1,6 @@
 {
   "name": "simple_note_apps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "type": "module",
   "main": "simple_note_apps.js",
