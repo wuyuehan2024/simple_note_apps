@@ -1,0 +1,31 @@
+{
+  "name": "simple_note_apps",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "simple_note_apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuyuehan2024/simple_note_apps"
+  },
+  "website": "https://github.com/wuyuehan2024/simple_note_apps.git",
+  "keywords": [
+    "simple_note_apps"
+  ],
+  "author": "wuyuehan2024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuyuehan2024/simple_note_apps/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wuyuehan2024/simple_note_apps#readme",
+  "dependencies": {
+    "recommendation_systems": "1.0.2"
+  }
+}
